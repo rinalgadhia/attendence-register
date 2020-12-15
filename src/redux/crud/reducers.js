@@ -1,0 +1,3 @@
+import { INSERT_TEACHER_SUCCESS, INSERT_TEACHER_FAILURE, UPDATE_TEACHER_SUCCESS, UPDATE_TEACHER_FAILURE } from "./types";
+
+// export const teacherReducer = {}
